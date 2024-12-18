@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Jacob W Morgan"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Jacob W Morgan's personal website"
+  copyright = "Copy, _right?_ 🤔"
+
+[author]
+  name = "Jacob W Morgan"
+  image = "img/pfp.png"
+  #headline = ""
+  bio = "Computer Science & Music"
+  links = [
+    { email = "mailto:morganjdev@gmail.com" },
+    {linkedin = "https://www.linkedin.com/in/jacob-morgan-982471169/"},
+    { github = "https://github.com/jacobwmorgan" },
+    { ko-fi = "https://ko-fi.com/jacobwmorgan" },
+  ]
